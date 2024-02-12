@@ -12,7 +12,7 @@ Meu nome é Henrique e sou um desenvolvedor front-end de Ijuí, Rio Grande do Su
   <summary><b>Onde me achar</b></summary>
 
 [![Gmail Badge](https://img.shields.io/badge/-henriquedaltrozo2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquedaltrozo2@gmail.com)](mailto:henriquedaltrozo2@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-henriquedaltrozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-daltrozo-740068269/)](https://www.linkedin.com/in/henrique-daltrozo-740068269/)
+[![Linkedin Badge](https://img.shields.io/badge/-henriquedaltrozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-daltrozo-740068269/)](https://www.linkedin.com/in/henriquedaltrozo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/henriquedaltrozo)](https://github.com/henriquedaltrozo)
 
 </details>

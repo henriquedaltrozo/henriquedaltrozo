@@ -4,7 +4,7 @@ Meu nome é Henrique e sou um desenvolvedor front-end de Ijuí, Rio Grande do Su
 
 - 💻 Estou buscando uma oportunidade na área
 - 📖 Cursando Ciência da Computação (5° semestre)
-- ✏️ Atualmente aprendendo TypeScript
+<!--- ✏️ Atualmente aprendendo TypeScript-->
 
 </details>
 
